@@ -1,2 +1,2 @@
 # ML-Regression-project
-ML project for predicting real estate prices in the Wroclaw market. As part of the project, the data was scraped from a popular classified ads website. 
+It is Machine Learning project for predicting real estate prices in the Wroclaw market.  As part of the project, the data was scraped from a popular classified ads website, cleaned, outliers were removed, and the data was presented. Several models, including Linear Regression, Ridge, DecisionTreeRegressor, RandomForestRegressor, and XGBRegressor, were tested. The model selection was performed using cross-validation. Hyperparameter tuning for the models was conducted. For educational purposes, the effects of using different methods for handling missing values were examined.
