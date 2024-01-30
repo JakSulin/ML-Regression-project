@@ -1,15 +1,18 @@
-# ML-Regression-project
-Welcome to the Machine Learning Regression project focused on predicting real estate prices in the Wroclaw market. In this project, data was scraped from a popular classified ads website, underwent a thorough cleaning process, outliers were removed, and the dataset was carefully prepared for analysis. Various regression models, including Linear Regression, Ridge, DecisionTreeRegressor, RandomForestRegressor, and XGBRegressor, were tested for their effectiveness in predicting real estate prices.
+# Machine Learning Repository
+Welcome to the Machine Learning Repository! This repository serves as a space for sharing various machine learning projects, each contributing to different aspects of the field.
 
-Project Overview
-Data Collection: The project involves scraping real estate data from a popular classified ads website.
+Overview
+Contained within this repository are projects showcasing the diverse applications of machine learning techniques. Whether it's analyzing medical data for breast cancer diagnosis or predicting real estate prices in a specific market, each project represents a unique exploration into the capabilities of machine learning algorithms.
 
-Data Cleaning: A meticulous data cleaning process was applied to ensure the dataset's integrity, and outliers were identified and removed.
+Featured Projects
+Breast Cancer Analysis:
 
-Model Testing: Several regression models, such as Linear Regression, Ridge, DecisionTreeRegressor, RandomForestRegressor, and XGBRegressor, were tested for their suitability in predicting real estate prices.
+Classification of tumors as malignant or benign using logistic regression.
+Utilizes feature selection techniques and the scikit-learn pipeline module.
+Comprehensive documentation and analysis insights available.
+ML Regression Project:
 
-Model Selection: The most effective model was selected using cross-validation techniques to ensure robust performance.
-
-Hyperparameter Tuning: To optimize model performance, hyperparameter tuning was conducted for the selected models.
-
-Handling Missing Values: The project explores the impact of different methods for handling missing values, serving as an educational component for understanding the implications of various approaches.
+Predicting real estate prices in the Wroclaw market.
+Scrapped data, performed data cleaning, and tested various regression models.
+Explores cross-validation, hyperparameter tuning, and different methods for handling missing values.
+In-depth documentation for project understanding.
